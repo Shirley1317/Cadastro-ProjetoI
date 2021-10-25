@@ -52,9 +52,10 @@ font-weight: bold;
 }
 .campoInput {
   border-bottom: 5px solid #ebebeb;
-  border-top,border-left,border-right: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
   background-color: #ebebeb;
-  color: #444;
   font-family: sans-serif;
 }
 .campoInput:hover {
