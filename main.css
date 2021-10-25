@@ -1,5 +1,9 @@
 body {
-  background-color: #444;
+  background-color: powderblue;
+  color: black;
+  font-weight: 900;
+  display: flex;
+  min-height: 100vh;
 }
 
 #title-Tag-Line {
