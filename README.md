@@ -1,7 +1,7 @@
 Criado a estrutura do projeto, no arquivo index.html.
 Selecionado linguagem;
 Head:
-- Tag Meta - escolhida para que o arquivo posa representar qualquer caractere de qualquer idioma;
+- Tag Meta - escolhida para que o arquivo consiga representar qualquer caractere de qualquer idioma;
 - Tag Rel - informando a relacao entre o arquivo descrito e o arquivo definido no caminho href;
 - e SRC usando um arquivo de script externo.
 Body:
